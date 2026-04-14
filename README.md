@@ -1,6 +1,6 @@
 # TrendSeer — Trend Detection Engine. Detect emerging tech trends before they go viral
 
-Trend Detection Engine. Detect emerging tech trends before they go viral. TrendSeer gives you a focused, inspectable implementation of that idea.
+Trend Detection Engine. Detect emerging tech trends before they go viral.
 
 ## Why TrendSeer
 
